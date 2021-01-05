@@ -21,7 +21,7 @@
 ; ^+!0:: Activ("goland64.exe","C:\Program Files\JetBrains\GoLand 2020.1\bin\goland64.exe")
 ^+!0:: Activ("Premiere Pro.exe","C:\Program Files\Adobe\Adobe Premiere Pro 2020\Adobe Premiere Pro.exe")
 
-^+!1:: Activ("mspaint.exe","C:\Windows\System32\mspaint.exe")
+^+!1:: Activ("PaintDotNet.exe","C:\Program Files\paint.net\PaintDotNet.exe")
 ^+!2:: Activ("vivaldi.exe","C:\Program Files\Vivaldi\Application\vivaldi.exe")
 ^+!3:: Activ("Photoshop.exe","C:\Program Files\Adobe\Adobe Photoshop 2020\Photoshop.exe")
 ^+!4:: Activ("emacs.exe", "C:\emacs\emacs-26.3-x86_64\bin\runemacs.exe")
