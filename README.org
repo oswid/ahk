@@ -3,11 +3,16 @@
 ** AHK script for keyboard 
 
 *** Language control
-
+Turn to rus by RightShift and to eng by rightControl 
 *** Program call
 
 | draw.io   | figma   | notepad |
 | photoshop | vivaldi | pinta   |
 |    ?      |   ?     | emacs   |
 ** Figma 
+*** keyboard 
+
+|1|2|3|4|5|
+|1|2|3|4|5|
+|1|2|3|4|5|
 
