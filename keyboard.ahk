@@ -25,12 +25,13 @@
 ^+!2:: Activ("vivaldi.exe","C:\Program Files\Vivaldi\Application\vivaldi.exe")
 ^+!3:: Activ("Photoshop.exe","C:\Program Files\Adobe\Adobe Photoshop 2020\Photoshop.exe")
 ^+!4:: Activ("emacs.exe", "C:\emacs\emacs-26.3-x86_64\bin\runemacs.exe")
-^+!5:: Activ("pycharm64.exe","C:\Program Files\JetBrains\PyCharm 2019.3\bin\pycharm64.exe")
-^+!6:: Activ("Cura.exe","C:\Program Files\Ultimaker Cura 4.4\Cura.exe")
-^+!7:: Activ("notepad++.exe", "C:\Program Files (x86)\Notepad++\notepad++.exe")
-^+!8:: Activ("opera.exe","C:\Program Files\Opera\launcher.exe")
 
-^+!9:: Activ("mintty.exe", "C:\msys64\usr\bin\mintty.exe")
+^+!5:: Activ("pycharm64.exe","C:\Program Files\JetBrains\PyCharm 2019.3\bin\pycharm64.exe") ;?
+^+!6:: Activ("Cura.exe","C:\Program Files\Ultimaker Cura 4.4\Cura.exe") ;?
+^+!7:: Activ("notepad++.exe", "C:\Program Files (x86)\Notepad++\notepad++.exe") ;?
+
+^+!8:: Activ("Figma.exe","C:\Users\olaf\AppData\Local\Figma\Figma.exe")
+^+!9:: Activ("drawio.exe", "C:\Program Files\draw.io\draw.io.exe")
 
 
 
