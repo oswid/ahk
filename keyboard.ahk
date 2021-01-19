@@ -26,7 +26,7 @@
 ^+!3:: Activ("Photoshop.exe","C:\Program Files\Adobe\Adobe Photoshop 2020\Photoshop.exe")
 
 ^+!4:: Activ("emacs.exe", "C:\emacs\emacs-26.3-x86_64\bin\runemacs.exe")
-^+!5:: Activ("pycharm64.exe","C:\Program Files\JetBrains\PyCharm 2019.3\bin\pycharm64.exe") ;?
+^+!5:: Activ("mingw64.exe","C:\msys64\mingw64.exe") ;?
 ^+!6:: Activ("Cura.exe","C:\Program Files\Ultimaker Cura 4.4\Cura.exe") ;?
 
 ^+!7:: Activ("notepad++.exe", "C:\Program Files (x86)\Notepad++\notepad++.exe") ;?
