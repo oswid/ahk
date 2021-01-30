@@ -8,7 +8,9 @@ EnLanguageCode := 0x4090409
 UsedLanguage :=
 
 
-#Include ./figma/figma.ahk
+#Include ./programs/figma/figma.ahk
+#Include ./programs/shareX/shareX.ahk
+
 
 #if
 

@@ -26,7 +26,7 @@
 ^+!3:: Activ("Photoshop.exe","C:\Program Files\Adobe\Adobe Photoshop 2020\Photoshop.exe")
 
 ^+!4:: Activ("emacs.exe", "C:\emacs\emacs-26.3-x86_64\bin\runemacs.exe")
-^+!5:: Activ("git-bash.exe","C:\Program Files\Git\git-bash.exe") ;?
+^+!5:: Activ("mintty.exe","C:\Program Files\Git\git-bash.exe") ;?
 ^+!6:: Activ("Cura.exe","C:\Program Files\Ultimaker Cura 4.4\Cura.exe") ;?
 
 ^+!7:: Activ("notepad++.exe", "C:\Program Files (x86)\Notepad++\notepad++.exe") ;?
@@ -45,7 +45,7 @@ OnLocale(InputLocaleID)  {
 ~RCtrl::OnLocale(0x4090409)
  
 
-
+#Include ./programs/programs.ahk
 
 
 
