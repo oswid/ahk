@@ -11,9 +11,3 @@ Turn to rus by RightShift and to eng by rightControl
 |    ?      |   bash  | emacs   |
 ** Figma 
 *** keyboard 
-
-
-|1|2|3|4|5|
-|1|2|3|4|5|
-|1|2|3|4|5|
-
