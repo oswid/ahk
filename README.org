@@ -7,7 +7,10 @@ Turn to rus by RightShift and to eng by rightControl
 *** Program call
 
 | draw.io   | figma   | notepad |
-| photoshop | vivaldi | paint   |
+| photoshop | vivaldi | paint.net   |
 |    ?      |   bash  | emacs   |
 ** Figma 
 *** keyboard 
+
+***To DO
+change draw.io -> to the top
