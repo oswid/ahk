@@ -12,5 +12,5 @@ Turn to rus by RightShift and to eng by rightControl
 ** Figma 
 *** keyboard 
 
-***To DO
+*** To DO
 change draw.io -> to the top
