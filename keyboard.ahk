@@ -31,7 +31,7 @@
 
 ^+!7:: Activ("notepad++.exe", "C:\Program Files (x86)\Notepad++\notepad++.exe") ;?
 ^+!8:: Activ("Figma.exe","C:\Users\olaf\AppData\Local\Figma\Figma.exe")
-^+!9:: Activ("drawio.exe", "C:\Program Files\draw.io\draw.io.exe")
+^+!9:: Activ("Trello.exe", "C:\Trello\app\Trello.exe")
 
 
 
