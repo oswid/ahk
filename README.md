@@ -15,4 +15,5 @@ Turn to:
 
 #### Figma 
 #### Draw.io
+fast creating basic figure -> to do
 #### Paint.net
