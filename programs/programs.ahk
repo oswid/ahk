@@ -10,7 +10,7 @@ UsedLanguage :=
 
 #Include ./programs/figma/figma.ahk
 #Include ./programs/shareX/shareX.ahk
-
+#Include ./programs/draw/draw.ahk
 
 #if
 
