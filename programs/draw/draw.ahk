@@ -10,3 +10,8 @@
 XButton2::send ^y            
 
 XButton1::send ^z            
+
+Left::send !+{Left} 
+Right::send !+{Right} 
+Up::send !+{Up} 
+Down::send !+{Down} 
