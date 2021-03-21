@@ -10,10 +10,9 @@ Turn to:
 
 | trello    | figma   | notepad   |
 | --------- | ------- | --------- |
-| photoshop | vivaldi | paint.net |
-| ?         | bash    | emacs     |
+| pycharm   | vivaldi | paint.net |
+| photoshop | msys2   | emacs     |
 
 #### Figma 
 #### Draw.io
-fast creating basic figure -> to do
 #### Paint.net
