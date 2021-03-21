@@ -23,11 +23,11 @@
 
 ^+!1:: Activ("PaintDotNet.exe","C:\Program Files\paint.net\PaintDotNet.exe")
 ^+!2:: Activ("vivaldi.exe","C:\Program Files\Vivaldi\Application\vivaldi.exe")
-^+!3:: Activ("Photoshop.exe","C:\Program Files\Adobe\Adobe Photoshop 2020\Photoshop.exe")
+^+!3:: Activ("pycharm64.exe","C:\Program Files\JetBrains\PyCharm 2020.3\bin\pycharm64.exe")
 
 ^+!4:: Activ("emacs.exe", "C:\emacs\emacs-26.3-x86_64\bin\runemacs.exe")
-^+!5:: Activ("mintty.exe","C:\Program Files\Git\git-bash.exe") ;?
-^+!6:: Activ("Cura.exe","C:\Program Files\Ultimaker Cura 4.4\Cura.exe") ;?
+^+!5:: Activ("msys2.exe","C:\msys64\msys2.exe") ;?
+^+!6:: Activ("Photoshop.exe","C:\Program Files\Adobe\Adobe Photoshop 2020\Photoshop.exe") ;?
 
 ^+!7:: Activ("notepad++.exe", "C:\Program Files (x86)\Notepad++\notepad++.exe") ;?
 ^+!8:: Activ("Figma.exe","C:\Users\olaf\AppData\Local\Figma\Figma.exe")
